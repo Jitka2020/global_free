@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Global Free_shop",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -391,7 +391,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/online-4275963-1920-1920x960.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -401,7 +401,7 @@
                 "customStyle2": "display-1",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "<b>&nbsp;ON-LINE NÁKUPY</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">ZJISTIT VÍCE</a> ",
@@ -431,7 +431,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/sx-spirit-aloha-shot-04-0062-1-rz-2-2000x3000.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
